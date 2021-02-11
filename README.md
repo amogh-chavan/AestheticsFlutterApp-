@@ -1,4 +1,4 @@
-# aesthetics
+# Aesthetics Flutter Wallpaper App
 
 A new Flutter project.
 

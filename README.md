@@ -1,6 +1,14 @@
 # Aesthetics Flutter Wallpaper App
 
-A new Flutter project.
+Hello Developer
+
+I have developed a wallpaper app in flutter(Dart). This app uses pexels API for wallpapers images (https://www.pexels.com/). You can register for your own pexels API.
+
+Data.dart file has all the api link which provide data to the app we just need to display the data received from the links into different frames.
+
+Thank you!
+
+A concept from youtube channel sanskar tiwari Wallpaper app flutter
 
 ## Getting Started
 

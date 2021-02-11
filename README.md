@@ -11,9 +11,15 @@ Thank you!
 A concept from youtube channel sanskar tiwari Wallpaper app flutter
 
 # Screen Shots 
+<br>
+<img src="s1.jpg" width="300">
+<br>
+<img src="s2.jpg" width="300">
+<br>
+<img src="s3.jpg" width="300">
+<br>
+<img src="s4.jpg" width="300">
 
-![](s1.jpg) ![](S2.jpg)
-![](s3.jpg) ![](s4.jpg)
 
 ## Getting Started
 
